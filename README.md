@@ -14,7 +14,7 @@
     <h2>
       <b>2. ADIM</b>
     </h2>
-    <p>Açılan küçük pencerede, en altta bulunan "Download ZIP" seçeneğine tıklayın.</p>
+    <p>Açılan küçük pencerede, en altta bulunan "<a href="https://github.com/Lamartune/Kapsul-Mail-Signature/archive/refs/heads/main.zip">Download ZIP</a>" seçeneğine tıklayın.</p>
   </li>
 
   <li><b>1. Adım</b></li>
