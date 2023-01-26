@@ -45,6 +45,13 @@
     <p><b>Açılan pencerede "Hızlı Ayarlar" bölümünün altında bulunan "Tüm ayarları görüntüleyin" butonuna tıklayın.</b></p>
   </li>
 
+  <li>
+    <h2>
+      <b>7. ADIM</b>
+    </h2>
+    <p><b>Açılan sayfa "Genel" sekmesinin altından "İmza" bölümünü bulun.</b></p>
+  </li>
+
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
