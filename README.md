@@ -7,8 +7,16 @@
     <h2>
       <b>1. ADIM</b>
     </h2>
-    <p>Ekranda görmüş olduğunuz yeşil renkli "<> Code" butonuna tıklayın</p>
+    <p>Ekranda görmüş olduğunuz yeşil renkli "<> Code" butonuna tıklayın.</p>
   </li>
+  
+  <li>
+    <h2>
+      <b>2. ADIM</b>
+    </h2>
+    <p>Açılan küçük pencerede, en altta bulunan "Download ZIP" seçeneğine tıklayın.</p>
+  </li>
+
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
