@@ -24,6 +24,13 @@
     <p><b>İndirilen zip dosyasının içinden "proto.html" dosyasını tarayıcnızda açın.</b></p>
   </li>
 
+  <li>
+    <h2>
+      <b>4. ADIM</b>
+    </h2>
+    <p><b>Açılan sayfaay bir kez tıklayıp sayfanın tümünü seçin; Windows(Ctrl+A) - Mac(Command+A).</b></p>
+  </li>
+
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
