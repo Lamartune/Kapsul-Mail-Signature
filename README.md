@@ -28,7 +28,14 @@
     <h2>
       <b>4. ADIM</b>
     </h2>
-    <p><b>Açılan sayfaay bir kez tıklayıp sayfanın tümünü seçin; Windows(Ctrl+A) - Mac(Command+A).</b></p>
+    <p><b>Açılan sayfaya bir kez tıklayıp sayfanın tümünü seçin; Windows(Ctrl+A) - Mac(Command+A).</b></p>
+  </li>
+
+  <li>
+    <h2>
+      <b>5. ADIM</b>
+    </h2>
+    <p><b>Gmail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.</b></p>
   </li>
 
   <li><b>1. Adım</b></li>
