@@ -28,14 +28,19 @@
     <h2>
       <b>4. ADIM</b>
     </h2>
-    <p><b>Açılan sayfaya bir kez tıklayıp sayfanın tümünü seçin; Windows(Ctrl+A) - Mac(Command+A).</b></p>
+    <p><b>Açılan sayfaya bir kez tıklayıp sayfanın tümünü seçin; Windows(Ctrl+A) - Mac(Command+A). (Seçim yapmadan önce görsellerin yüklenmesini bekleyin.)</b></p>
   </li>
 
   <li>
     <h2>
       <b>5. ADIM</b>
     </h2>
-    <p><b>Gmail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.</b></p>
+    <p>
+      <b>
+        Yandex Mail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.
+        Gmail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.
+      </b>
+     </p>
   </li>
 
   <li>
@@ -49,22 +54,47 @@
     <h2>
       <b>7. ADIM</b>
     </h2>
-    <p><b>Açılan sayfada "Genel" sekmesinin altından "İmza" bölümünü bulun.</b></p>
+    <p>
+      <b>
+        Yandex Mail için: Açılan sayfada "Kişisel Bilgiler" sekmesine girin ve aşağıdan "İmzalarınız" bölümünü bulun.
+        Gmail için: Açılan sayfada "Genel" sekmesinin altından "İmza" bölümünü bulun.
+      </b>
+    </p>
   </li>
 
   <li>
     <h2>
       <b>8. ADIM</b>
     </h2>
-    <p><b>"+ İmza Oluşturun" butonuna tıklayın ve imzanıza isim vererek yeni bir imza oluşturun.</b></p>
+    <p>
+      <b>
+        Gmail için: "+ İmza Oluşturun" butonuna tıklayın ve imzanıza isim vererek yeni bir imza oluşturun.
+      </b>
+     </p>
   </li>
 
-  <li><b>1. Adım</b></li>
-  <li><b>1. Adım</b></li>
-  <li><b>1. Adım</b></li>
-  <li><b>1. Adım</b></li>
-  <li><b>1. Adım</b></li>
-  <li><b>1. Adım</b></li>
+ <li>
+    <h2>
+      <b>9. ADIM</b>
+    </h2>
+    <p>
+      <b>
+        Açılan text kutusuna az önce tamamını kopyalamış olduğunuz metni, Windows(Ctrl+V)-Mac(Command+V) kombinasyonlarını kullanarak yapıştırın (Görseller hemen  yüklenmeyebilir biraz bekleyip eklemeyi deneyin).
+      </b>
+    </p>
+  </li>
+
+<li>
+    <h2>
+      <b>9. ADIM</b>
+    </h2>
+    <p>
+      <b>
+        Tebrikler Mail İmzanızı eklediniz. Test etmek için başkasına mail yollamayı deneyin.
+      </b>
+    </p>
+  </li>
+
 </ul>
 
 
