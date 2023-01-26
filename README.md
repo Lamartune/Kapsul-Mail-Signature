@@ -38,6 +38,13 @@
     <p><b>Gmail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.</b></p>
   </li>
 
+  <li>
+    <h2>
+      <b>6. ADIM</b>
+    </h2>
+    <p><b>Açılan pencerede "Hızlı Ayarlar" bölümünün altında bulunan "Tüm ayarları görüntüleyin" butonuna tıklayın.</b></p>
+  </li>
+
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
   <li><b>1. Adım</b></li>
