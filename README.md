@@ -38,6 +38,7 @@
     <p>
       <b>
         Yandex Mail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.
+          <br/>
         Gmail'inizi açın ve sağ üstte bulunan ayar(⚙️) simgesine tıklayın.
       </b>
      </p>
@@ -57,6 +58,7 @@
     <p>
       <b>
         Yandex Mail için: Açılan sayfada "Kişisel Bilgiler" sekmesine girin ve aşağıdan "İmzalarınız" bölümünü bulun.
+          <br/>
         Gmail için: Açılan sayfada "Genel" sekmesinin altından "İmza" bölümünü bulun.
       </b>
     </p>
