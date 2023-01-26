@@ -7,14 +7,14 @@
     <h2>
       <b>1. ADIM</b>
     </h2>
-    <p>Ekranda görmüş olduğunuz yeşil renkli "<> Code" butonuna tıklayın.</p>
+    <p><b>Ekranda görmüş olduğunuz yeşil renkli "<> Code" butonuna tıklayın.</b></p>
   </li>
   
   <li>
     <h2>
       <b>2. ADIM</b>
     </h2>
-    <p>Açılan küçük pencerede, en altta bulunan "<a href="https://github.com/Lamartune/Kapsul-Mail-Signature/archive/refs/heads/main.zip">Download ZIP</a>" seçeneğine tıklayın.</p>
+    <p><b>Açılan küçük pencerede, en altta bulunan "<a href="https://github.com/Lamartune/Kapsul-Mail-Signature/archive/refs/heads/main.zip">Download ZIP</a>" seçeneğine tıklayın.</b></p>
   </li>
 
   <li><b>1. Adım</b></li>
