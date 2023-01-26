@@ -49,7 +49,14 @@
     <h2>
       <b>7. ADIM</b>
     </h2>
-    <p><b>Açılan sayfa "Genel" sekmesinin altından "İmza" bölümünü bulun.</b></p>
+    <p><b>Açılan sayfada "Genel" sekmesinin altından "İmza" bölümünü bulun.</b></p>
+  </li>
+
+  <li>
+    <h2>
+      <b>8. ADIM</b>
+    </h2>
+    <p><b>"+ İmza Oluşturun" butonuna tıklayın ve imzanıza isim vererek yeni bir imza oluşturun.</b></p>
   </li>
 
   <li><b>1. Adım</b></li>
