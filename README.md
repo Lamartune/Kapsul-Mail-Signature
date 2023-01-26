@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto"><b>Mail İmzasını Mailinize Eklemek İçin Sırasıyla Yapmanız Gereken Adımlar <br/> 👇👇👇</b></h1>
+<h1 align="center" dir="auto"><b>Mail İmzasını Mailinize Eklemek İçin Sırasıyla Yapmanız Gereken Adımlar<br/>👇👇👇</b></h1>
 
 <h2 align="center" dir="auto"><i>⭐Yıldız Atmayı Unutmayın⭐</i></h2>
 
@@ -15,6 +15,13 @@
       <b>2. ADIM</b>
     </h2>
     <p><b>Açılan küçük pencerede, en altta bulunan "<a href="https://github.com/Lamartune/Kapsul-Mail-Signature/archive/refs/heads/main.zip">Download ZIP</a>" seçeneğine tıklayın.</b></p>
+  </li>
+
+  <li>
+    <h2>
+      <b>3. ADIM</b>
+    </h2>
+    <p><b>İndirilen zip dosyasının içinden "proto.html" dosyasını tarayıcnızda açın.</b></p>
   </li>
 
   <li><b>1. Adım</b></li>
